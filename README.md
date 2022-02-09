@@ -1,4 +1,6 @@
-### Empezando a comprender github lol
+## Empezando a comprender bien github lol
+### Siempre trabajando en bajo consumo
+Karlitos (Marx) tenia mas razon de la que queremos admitir
 
 <!--
 **DanielGarciaITT/DanielGarciaITT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
