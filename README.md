@@ -3,14 +3,14 @@
 Karlitos (Marx) tenia mas razon de la que queremos admitir
 
 ### Horario
-|           |              Lunes              |              Martes             |            Miercoles            |              Jueves             |             Viernes             |
-|:---------:|:-------------------------------:|:-------------------------------:|:-------------------------------:|:-------------------------------:|:-------------------------------:|
-| 1:00-2:00 |      INGENIERIA DE SOFTWARE     |      INGENIERIA DE SOFTWARE     |      INGENIERIA DESOFTWARE      |      INGENIERIA DESOFTWARE      |      INGENIERIA DESOFTWARE      |
-| 2:00-3:00 |      LENGUAJES DE INTERFAZ      |      LENGUAJES DE INTERFAZ      |      LENGUAJES DE INTERFAZ      |      LENGUAJES DE INTERFAZ      |                                 |
-| 3:00-4:00 |      REDES DE COMPUTADORAS      |      REDES DE COMPUTADORAS      |      REDES DE COMPUTADORAS      |      REDES DE COMPUTADORAS      |      REDES DE COMPUTADORAS      |
-| 4:00-5:00 |  TALLER DE SISTEMAS OPERATIVOS  |  TALLER DE SISTEMAS OPERATIVOS  |  TALLER DE SISTEMAS OPERATIVOS  |  TALLER DE SISTEMAS OPERATIVOS  |                                 |
-| 5:00-6:00 |     LENGUAJES Y AUTOMATAS I     |     LENGUAJES Y AUTOMATAS I     |     LENGUAJES Y AUTOMATAS I     |     LENGUAJES Y AUTOMATAS I     |     LENGUAJES Y AUTOMATAS I     |
-| 6:00-7:00 | ADMINISTRACION DE BASE DE DATOS | ADMINISTRACION DE BASE DE DATOS | ADMINISTRACION DE BASE DE DATOS | ADMINISTRACION DE BASE DE DATOS | ADMINISTRACION DE BASE DE DATOS |
+|           |          Lunes          |          Martes         |        Miercoles        |          Jueves         |         Viernes         |
+|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
+| 1:00-2:00 |     ING. DE SOFTWARE    |     ING. DE SOFTWARE    |     ING. DE SOFTWARE    |     ING. DE SOFTWARE    |     ING. DE SOFTWARE    |
+| 2:00-3:00 |  LENGUAJES DE INTERFAZ  |  LENGUAJES DE INTERFAZ  |  LENGUAJES DE INTERFAZ  |  LENGUAJES DE INTERFAZ  |                         |
+| 3:00-4:00 |  REDES DE COMPUTADORAS  |  REDES DE COMPUTADORAS  |  REDES DE COMPUTADORAS  |  REDES DE COMPUTADORAS  |  REDES DE COMPUTADORAS  |
+| 4:00-5:00 |   TALLER DE SIS. OPE.   |   TALLER DE SIS. OPE.   |   TALLER DE SIS. OPE.   |   TALLER DE SIS. OPE.   |                         |
+| 5:00-6:00 | LENGUAJES Y AUTOMATAS I | LENGUAJES Y AUTOMATAS I | LENGUAJES Y AUTOMATAS I | LENGUAJES Y AUTOMATAS I | LENGUAJES Y AUTOMATAS I |
+| 6:00-7:00 |  ADMIN DE BASE DE DATOS |  ADMIN DE BASE DE DATOS |  ADMIN DE BASE DE DATOS |  ADMIN DE BASE DE DATOS |  ADMIN DE BASE DE DATOS |
 
 <!--
 **DanielGarciaITT/DanielGarciaITT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
