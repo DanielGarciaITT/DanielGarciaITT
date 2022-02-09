@@ -1,5 +1,5 @@
 ## Empezando a comprender bien github lol
-### Siempre trabajando en bajo consumo
+### Siempre trabajando en bajo consumo 🔋
 Karlitos (Marx) tenia mas razon de la que queremos admitir
 
 <!--
