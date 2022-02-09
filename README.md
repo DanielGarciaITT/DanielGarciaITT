@@ -4,7 +4,7 @@ Karlitos (Marx) tenia mas razon de la que queremos admitir
 
 - 🔭 Jobless... por el momento
 - 🌱 Actualmente estudiando en ITT
-- 😄 Pronombres: El, pero no importa como me digas
+- 😄 Pronombres: El, pero no me molesta como se refieran a mi
 - ⚡ Fun fact: Se un poco de japones de forma autodidacta pero de forma limitada
 
 ### Horario
